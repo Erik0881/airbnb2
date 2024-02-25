@@ -32,5 +32,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://airbnb2-three.vercel.app/");
+  return NextResponse.redirect("https://airbnb2-three.vercel.app");
 }
